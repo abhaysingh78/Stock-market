@@ -14,8 +14,7 @@ const Home = () => {
           method: "GET",
           headers: {
             "X-RapidAPI-Host": "latest-stock-price.p.rapidapi.com",
-            "X-RapidAPI-Key":
-              "7abac56d94msh05aba50ece65845p1d0c39jsn20b3d2e5d9e1",
+            "X-RapidAPI-Key": "your api",
           },
         }
       );
